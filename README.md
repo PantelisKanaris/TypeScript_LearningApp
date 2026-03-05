@@ -1,2 +1,2 @@
 # TypeScript_LearningApp
-This project is for learnign TypeScript.
+This project is for learning TypeScript.
